@@ -3,6 +3,8 @@
 Ce dépôt contient les fichiers LaTeX utilisés pour la rédaction de mon mémoire intitulé 
 **CENT ANS DE RECENSEMENT FRANÇAIS EN UNE BASE DE DONNEES, L’EXEMPLE SOCFACE**
 
+Direction : Lionel Kesztenbaum et Ségolène Albouy
+
 ## Structure du dépôt
 
 - `document_maitre.tex` : Le fichier principal du document LaTeX, avec l'appel des chapitres, de la bibliographie, des annexes, des figures et du glossaire et l'insertion de la table des matières et des figures. Ce fichier contient le texte de l'introduction, des remerciements, des introductions à chaque partie, et de la conclusion.
@@ -18,5 +20,5 @@ Ce dépôt contient les fichiers LaTeX utilisés pour la rédaction de mon mémo
 
 ## Compilation
 
-La compilation de ce texte a été faite via overleaf
+La compilation de ce texte a été faite via Overleaf
 
